@@ -1,0 +1,30 @@
+p{
+    background-color: gray;
+}
+
+p.p_pertama{
+    background-color: orange;
+    border-style: solid none solid none;
+    border-width: thin;
+}
+
+p.p_dua{
+    background-color: blue;
+    color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+p.p_tiga{
+    font-family: monospace;
+    background-color: white;
+    font-size: 20px;
+    border: solid 2px;
+}
+
+p.p_empat{
+    font-weight: 900;
+    border-style: solid none none none;
+    border-width: 2px;
+}
